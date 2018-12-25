@@ -10,4 +10,4 @@ A qualquer momento um usuário poderá:
 * Listar todos os títulos do catálogo por ordem alfabética crescente;
 * Informar a altura da árvore.
 
-![Menu](img/menu.png)
+![Menu](img/Menu.png)
